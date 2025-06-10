@@ -1,2 +1,2 @@
 #!/bin/bash
-apt install rsync | rsync -u *.html ../
+sudo apt install rsync | rsync -avu *.html ../
