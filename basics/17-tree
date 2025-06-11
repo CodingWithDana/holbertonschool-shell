@@ -1,2 +1,2 @@
 #!/bin/bash
-tree /root/holbertonschool-shell/basics/welcome/to/school
+apt install tree | tree  /root/holbertonschool-shell/basics/welcome/to/school
